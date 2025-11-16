@@ -17,7 +17,6 @@ interfaces Datasheet - production data Features
  
 
 ## Procedure:
-### Name
  1. click on STM 32 CUBE IDE, the following screen will appear 
  ![image](https://user-images.githubusercontent.com/36288975/226189166-ac10578c-c059-40e7-8b80-9f84f64bf088.png)
 
